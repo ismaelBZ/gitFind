@@ -1,0 +1,15 @@
+
+.repository-wrapper {
+  margin-bottom: 2vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  padding-bottom: 2vh;
+  border-bottom: 1px solid #999;
+}
+
+.repository-name {
+  text-decoration: none;
+  color: #539BF5;
+}
+

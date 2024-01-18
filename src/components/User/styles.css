@@ -1,0 +1,19 @@
+.developer-image {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 150px;
+}
+
+.developer-info{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.developer-description {
+  margin-top: 1.2vh;
+  font-size: 0.8rem;
+  letter-spacing: 0.063rem;
+}
